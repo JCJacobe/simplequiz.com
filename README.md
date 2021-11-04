@@ -1,1 +1,1 @@
-# quiz
+# simplequiz.com
